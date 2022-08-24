@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/UniversidadDeGuatemala/static/css/main.d1111516.css",
+    "main.js": "/UniversidadDeGuatemala/static/js/main.5b0c9aa6.js",
+    "static/js/787.2cd0bbf1.chunk.js": "/UniversidadDeGuatemala/static/js/787.2cd0bbf1.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/UniversidadDeGuatemala/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/UniversidadDeGuatemala/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/UniversidadDeGuatemala/index.html",
+    "main.d1111516.css.map": "/UniversidadDeGuatemala/static/css/main.d1111516.css.map",
+    "main.5b0c9aa6.js.map": "/UniversidadDeGuatemala/static/js/main.5b0c9aa6.js.map",
+    "787.2cd0bbf1.chunk.js.map": "/UniversidadDeGuatemala/static/js/787.2cd0bbf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1111516.css",
+    "static/js/main.5b0c9aa6.js"
+  ]
+}
